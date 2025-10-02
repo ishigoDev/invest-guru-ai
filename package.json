@@ -1,0 +1,20 @@
+{
+  "name": "invest-guru-ai",
+  "version": "1.0.0",
+  "description": "Investment Guru AI agents to help in investing",
+  "keywords": [
+    "Invest",
+    "Aiagents'"
+  ],
+  "license": "ISC",
+  "author": "Pranay",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
